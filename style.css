@@ -1,0 +1,45 @@
+p{
+  color: blue;
+  background-color: hsl(185, 62%, 66%);
+}
+
+h1{
+  color: #C229DA;
+  background-color:rgb(220, 207, 245);
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+  text-align: center;
+}
+
+
+    /* Existen diferentes formas de aplicar CSS
+    Se puede aplicar a nivel elemento utilizando el atributo style de HTML
+    En un documento por medio de la etiqueta style en el head
+    Compartido entre varios documentos utilizando la etiqueta link en el head 
+    de nuestros documentos que queremos vincular */
+
+.verde{
+    color: green;
+    background-color: yellow;
+    font-family: ;
+}
+
+.segundo-parrafo{
+    color:rgb(0,255,0);
+    background-color: #E5903F;
+    font-style: oblique;
+}
+
+body { font-size: 100%; }
+
+p { font-size: 20px; }
+
+/*Ejemplo: a { font-size: 1em; }*/
+
+.autor{
+    text-align: right;
+    font-style: oblique;
+    font-family: 'Dancing Script', cursive;
+}
+
